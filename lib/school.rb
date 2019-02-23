@@ -9,7 +9,6 @@ class School
   
   def roster
    @roster 
-
   end 
   
   # def self.add_student(name, grade)
