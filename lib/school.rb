@@ -11,9 +11,9 @@ class School
    @roster 
   end 
   
-  # def self.add_student(name, grade)
-  #   return name, grade
-  # end 
+  def self.add_student(name, grade)
+    return name, grade
+  end 
 end 
 
 
