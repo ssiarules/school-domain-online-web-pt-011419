@@ -9,6 +9,7 @@ class School
   end 
   
   def self.add_student(name, grade)
+    return name, grade
    end 
 end 
 
