@@ -23,7 +23,7 @@ class School
   end 
   
   def sort 
-    .sort
+    roster.sort[]
   end 
  end 
 end 
