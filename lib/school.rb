@@ -8,7 +8,7 @@ class School
     {}
   end 
   
-  def self.add_student(name, grade)
+  def .add_student(name, grade)
    end 
 end 
 
