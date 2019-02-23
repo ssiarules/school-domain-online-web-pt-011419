@@ -12,7 +12,8 @@ class School
   end 
   
   def self.add_student(name, grade)
-    return name, grade
+  @roster[grade] = [name]
+   
   end 
 end 
 
