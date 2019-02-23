@@ -23,7 +23,7 @@ class School
   end 
   
   def sort 
-    self.sort
+    .sort
   end 
  end 
 end 
